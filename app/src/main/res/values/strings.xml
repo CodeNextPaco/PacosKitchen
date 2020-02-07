@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Pacos Kitchen</string>
+    <string name="torta_ahogada"> Torta Ahogada</string>
+    <string name="cucumber_banchan"> Cucumber Banchan</string>
+    <string name="fish_taco"> Fish Taco</string>
+    <string name="molletes"> Molletes</string>
+    <string name="japcahe"> Japchae</string>
+    <string name="pozole"> Pozole</string>
+
+    <string name="torta_steps">Cook the tomatoes in a pot with water, drain and blend in blender with garlic, vinegar, oregano and salt.
+
+In a large pot put the sauce to a boil 1 / 2 hour, adding water, depending on how liquid you would like it (in many places it is thick in others don’t, depending on your taste) taste the salt, if you feel that it needs more oregano, add more, or a little more vinegar, it should be a little acid, but rich \n\n  I know that this recipe is quite a personal taste, sorry, but it will depend a lot on your taste for spices and vinegar, this is the basis, ok?
+
+       \n\n For the Hot sauce, cook the 15 Arbol Chiles in water for about 15 minutes or until tender, place them in a blender or food processor with a little of the cooking water, 1/2 clove of garlic, salt and puree until smooth. Strain and it is ready …be careful with this sauce is very spicy! \n\n
+
+Now to assembly the sandwich, spread some refried beans on each side of the rolls, top bottom half with a portion of the Pork Carnitas, served on a plate and top with the tomato salsa, serve with marinated onions alongside, a wedge of lemon and … dig in! If you like to spice your sandwich add the árbol sauce.
+    </string>
+
+    <string name="banchan_steps">
+
+        1. Slice cucumbers into thin slices. Around 1/8 inch (3 mm). \n\n
+        2. Mix soy sauce, vinegar and sugar in a bowl. Pour soy vinegar into the bowl with cucumbers.\n\n
+        3. Then, add 1/2 tsp chili powder and sesame seeds. Mix and taste. Add more chili powder if you want. Doing it in this order allows you to taste and control the amount of chili powder based on how spicy you want it.
+Add chopped green onions and mix again. \n\n
+4. YOU ARE DONE!! Serve immediately for the most fresh and crunchy cucumber flavor. You can also let it sit for 10-15 minutes for the cucumbers to absorb the dressing before serving.
+
+
+
+    </string>
+
+    <string name="mollete_steps">
+        1. Cut the bread rolls or baguettes in half \n\n 2. Preheat the oven to 350 degrees  \n\n 3. butter the bread and bake for 5 minuntes \n\n
+        6. Take bread out and apply a layer of refried beans to cover the surface \n\n  7. Sprinkle cheese on top to taste. \n\n  8. Bake again for another5 minutes or until the cheese metls and begins to turn crisp.
+
+
+
+    </string>
+
+    <string name="fish_taco_steps">
+
+    1. cut the fish into strips \n\n 2. cover fish in breadcrumbs \n\n 3. Heat the oil to 350 degrees 4. Fry the fish until golden brown \n\n
+        5. Cut the cabbage into thin shreds and set aside  \n\n 6. for the Sauce, mix the mayonnaise, and 3 tablespons of chipotle peppers, and the juice of one lime
+        , blend if necessary. \n\n 7. Assemble the tacos: heat the tortillas and add the fish, sauce, cabbage and salsa of your choice. Eat immediately.
+
+    </string>
+
+    <string name="pozole_steps">
+
+        1 Boil 5 quarts water: Fill a large 10-12 quart stockpot with 5 quarts of water. Set on heat to bring to a boil while you proceed with the next steps.\n\n 2 Lightly roast chiles, cover with 3 cups hot water. Remove and discard the stems, seeds, and large veins from the chili pods.
+        Heat a cast iron pan on medium high and lightly roast the chili pods for a couple minutes, until they begin to soften. Do not let them burn.  While the chilies are heating, bring a medium pot with 3 cups of water to a boil. Once the chiles have softened,
+        remove the pot of boiling water from the heat, add the chiles to the pot and cover.\n\n
+        Let the chiles soak in the hot water for 15 to 20 minutes.\n\n 3 Brown the pork, add garlic: Heat a tablespoon or two of olive oil (enough to coat the bottom of the pan) in a large sauté pan on medium high heat. Pat the pork pieces dry with paper towels. Sprinkle them generously with salt.
+        Working in batches, taking care not to crowd the pan or stir the meat much, brown the meat on all sides. Right at the end of browning the meat, add 4 cloves of roughly chopped garlic to the pan with the meat, let cook with the meat for about a minute. \n\n
+        4 Add pork and spices to large pot of boiling water: Once the meat has browned, transfer it to the large stockpot of boiling water. Scrape up any browned bits at the bottom of the pan, and any garlic, and add those to the pot as well. Add the rinsed hominy.
+        Add bay leaves, cumin, and oregano. When you put the oregano in, smoosh together with your hands so that the oregano breaks up more as it goes in. Add a tablespoons of salt. Bring to a simmer, reduce the heat and cook for 15 minutes. \n\n
+        5 Prepare the red sauce by puréeing in a blender the chilies, 2 1/2 cups or so of their soaking liquid, a teaspoon of salt, and 4 cloves of garlic. (To prevent the blender from creating too much pressure, it is probably best to start with the chiles and garlic and only a cup of the liquid in the blender, and then adding the rest of the liquid.)
+        Strain the red sauce through a sieve, discarding the tough bits of the sauce. \n\n
+        6 Add the red chili sauce to the pot with the pork and hominy. Add another couple teaspoons of salt. Return to a simmer, lower the heat to just high enough to maintain a simmer, partially covered. \n\n
+        7 Cook for 2 to 3 hours until the pork is completely tender. Skim away excess fat. Taste for seasoning and add more salt to taste (you will likely need more than you expect, perhaps a tablespoon or more.)
+        The resulting soup should be rather brothy, as you will be adding a lot garnishes. Add more water if necessary. \n\n
+        8 Assemble garnishes: When getting ready to serve the pozole, you can prep the garnishes (slice the cabbage, chop the cilantro, etc.)
+        To serve, arrange the garnishes in bowls on the table and serve the pozole soup into bowls. Let your guests pick and choose which garnishes they would like on their pozole.
+        Serve with tostada shells).
+
+
+    </string>
+    <string name="japchae_steps">
+
+        Whisk soy sauce, sugar, sesame oil, and garlic in a bowl until sugar is dissolved into sauce. \n\n
+Bring a large pot of lightly salted water to a boil. Cook sweet potato noodles in the boiling water, stirring occasionally until cooked through but firm to the bite, 6 to 7 minutes. Rinse noodles under cold water and drain. Transfer noodles to a bowl, add 2 tablespoons sauce, and toss to coat. \n\n
+Squeeze beef under running water until juices run clear. Mix beef and 1 tablespoon sauce together in a bowl. \n\n
+Bring a pot of water to a boil. Cook spinach in the boiling water until just wilted, about 1 minute. Drain quickly and transfer spinach to a bowl of cold water to stop the cooking process. Squeeze excess water from spinach, place spinach in a large bowl, and season with salt and pepper. \n\n
+Heat 1 teaspoon oil in a large skillet over medium-high heat; cook onion until fragrant but crisp, 1 to 2 minutes.  \n\n
+        Transfer onion to the bowl with spinach. Heat another 1 teaspoon oil in the same skillet. Cook mushrooms in the hot oil until lightly browned but still firm, 1 to 2 minutes; add to onion mixture. Heat remaining 1 teaspoon oil in the same skillet.  \n\n
+        Cook carrot in the hot oil until lightly browned but still crisp, 1 to 2 minutes; add to onion mixture. \n\n
+Cook and stir beef in the same skillet until browned, 1 to 2 minutes; add to onion mixture. Cook and stir noodles in the same skillet until heated through, 1 to 2 minutes; add to beef-onion mixture. Add remaining sauce to beef-noodles mixture and toss to coat using your hands.
+
+
+
+    </string>
+
+    <string name="test">resource</string>
+
+
+
+</resources>
